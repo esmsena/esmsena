@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center"><a href="https://github.com/esmsena"><img width="80%" alt="oi, eu sou a izabella." src="./Esther Sena.png" /></a></p>
 
 <!--
 **esmsena/esmsena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
