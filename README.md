@@ -1,3 +1,16 @@
+# Esmsena's GitHub Pessoal
+
+Bem-vindo ao meu repositório GitHub pessoal! Aqui você encontrará uma variedade de projetos e trabalhos nos quais tenho trabalhado ao longo do tempo.
+
+
+## Contato
+
+Você pode entrar em contato comigo por meio das seguintes redes sociais:
+
+- [LinkedIn](https://www.linkedin.com/in/esther-sena-martins-003b021b3/)
+- [E-mail](esthersena.jd@gmail.com)
+
+Não hesite em me contatar se você tiver alguma pergunta ou quiser discutir colaborações em projetos interessantes. Obrigado por visitar o meu GitHub!
 
 ## Estatísticas
 
